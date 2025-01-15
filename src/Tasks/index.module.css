@@ -1,0 +1,36 @@
+.description{
+    margin: 0 15%;
+}
+.answer{
+    display: flex;
+    margin: 2rem 10%;
+    justify-content: center;
+}
+.code{
+    flex: 1 1 45%;
+    max-height: 500px;
+    overflow-y: auto;
+    margin: 0 10px;
+    border: 2px solid white;
+    text-align: start;
+    font-size: 22px;
+    white-space: pre-wrap;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+.demo{
+    flex: 1 1 45%;
+    margin: 0 10px;
+    border: 2px solid white;
+}
+span{
+    margin: 10px 10px;
+}
+.result{
+    margin-top: 30px;
+}
+.matrix{
+    margin: 0 20%;
+    white-space: pre;
+    text-align: justify;
+}
